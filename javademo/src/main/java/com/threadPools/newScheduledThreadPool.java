@@ -1,4 +1,4 @@
-package com.ThreadPools;
+package com.threadPools;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
